@@ -1,2 +1,3 @@
 *.xz
-man-pages*
+man*
+gcc*
